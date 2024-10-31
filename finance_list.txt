@@ -1,0 +1,51 @@
+1
+300
+09/12
+Painting
+1
+250
+09/14
+Flooring
+2
+180
+09/15
+Waterproof paint
+3
+190
+09/15
+Ladder
+4
+190
+09/15
+Account Payable
+2
+210
+09/19
+Outdoor paint
+1
+2000
+09/20
+Exterior painting
+2
+300
+09/21
+Cabinet wood
+1
+520
+09/22
+Installment
+3
+210
+09/22
+Tool set
+4
+210
+09/22
+Note Payable
+2
+500
+09/24
+Worker wages
+
+
+
